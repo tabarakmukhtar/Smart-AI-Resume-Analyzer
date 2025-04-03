@@ -25,7 +25,7 @@
 🚀 We’re actively improving **Smart AI Resume Analyzer – Version 2.0**, and your feedback is crucial!  
 
 💬 **Join the discussion and share your thoughts, issues, and suggestions here:**  
-🔗 **[🗨️ Feedback & Discussion – Smart AI Resume Analyzer (Version 2.0)](https://github.com/tabarakmukhtar/Smart-AI-Resume-Analyzer/discussions/3)**  
+🔗 **[🗨️ Feedback & Discussion – Smart AI Resume Analyzer (Version 2.0)](https://github.com/tabarakmukhtar/Smart-AI-Resume-Analyzer/)**  
 
 🛠️ **How can you help?**  
 ✅ Try out **Version 2.0** [here](https://smart-ai-resume-analyzer.streamlit.app/)  
